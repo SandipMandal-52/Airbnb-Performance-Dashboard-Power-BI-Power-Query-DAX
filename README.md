@@ -77,6 +77,8 @@ COVID-19 (2020–2021)      →  Severe demand and listing collapse
 
 ## 🗺️ Page 2 — Market Share by Cities & Pricing
 
+<img width="1072" height="800" alt="Screenshot 2026-06-23 095003" src="https://github.com/user-attachments/assets/d0d0591c-37df-4e28-a6b5-ef0dae53f60b" />
+
 ### Business Question
 *Which cities dominate the Airbnb market, and how does pricing vary by property type?*
 
