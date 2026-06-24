@@ -82,8 +82,6 @@ COVID-19 (2020–2021)      →  Severe demand and listing collapse
 
 ### Visual 1 — Pareto Bar Chart (Market Share by City)
 
-<img width="1072" height="800" alt="Screenshot 2026-06-23 095003" src="https://github.com/user-attachments/assets/d0d0591c-37df-4e28-a6b5-ef0dae53f60b" />
-
 
 Stacked bar chart showing Superhost vs Non-Superhost listings per city, with cumulative percentage line.
 
@@ -105,8 +103,6 @@ Stacked bar chart showing Superhost vs Non-Superhost listings per city, with cum
 **Paris leads** with the most listings and reviews. A likely driver: Paris hotel rooms average **$800/night** versus Airbnb Entire Place at **$673** — nearly a 19% price premium for hotels, pushing travelers toward Airbnb.
 
 ### Visual 2 — Average Price by Property Type
-
-<img width="1075" height="801" alt="Screenshot 2026-06-23 095016" src="https://github.com/user-attachments/assets/32e81ab4-71c2-47aa-9ccf-edfac7e13c73" />
 
 
 | Property Type | Average Price |
@@ -130,6 +126,8 @@ Stacked bar chart showing Superhost vs Non-Superhost listings per city, with cum
 
 ### Visual 1 — Overall Ratings by City (Bar Chart)
 
+<img width="1072" height="800" alt="Screenshot 2026-06-23 095003" src="https://github.com/user-attachments/assets/d0d0591c-37df-4e28-a6b5-ef0dae53f60b" />
+
 | City | Average Rating |
 |------|---------------|
 | Mexico City | 94.8 |
@@ -146,6 +144,8 @@ Stacked bar chart showing Superhost vs Non-Superhost listings per city, with cum
 **Key Insight:** Mexico City and Rio de Janeiro are the **best-rated cities**. Hong Kong and Istanbul are the **worst-rated**. Globally, **Cleanliness** and **Value for Money** are the two dimensions that score lowest across cities — representing the most actionable improvement areas for hosts.
 
 ### Visual 2 — Detailed Ratings Heatmap (City × Dimension)
+
+<img width="1075" height="801" alt="Screenshot 2026-06-23 095016" src="https://github.com/user-attachments/assets/32e81ab4-71c2-47aa-9ccf-edfac7e13c73" />
 
 Interactive toggle between **Overall Ratings** and **Detailed Ratings** views using Power BI bookmarks.
 
