@@ -1,6 +1,9 @@
 # 📊 Global Airbnb Performance Dashboard — Power BI Project
 
 > **A 3-page interactive Power BI dashboard analyzing global Airbnb performance across 10 cities — covering listing growth history, market concentration, pricing dynamics, host trust signals, review behavior, and city-level ratings.**
+>
+> <img width="1376" height="768" alt="airbnb" src="https://github.com/user-attachments/assets/eac32b97-fd88-4f7b-822c-072bbb495233" />
+
 
 ---
 
@@ -43,6 +46,9 @@ The project is organized as a **3-page interactive dashboard**, each page solvin
 
 ## 📈 Page 1 — New Listings Growth Lifecycle
 
+<img width="1073" height="801" alt="Screenshot 2026-06-23 094934" src="https://github.com/user-attachments/assets/404ad778-f5ad-4171-a9a1-b739f994cf2d" />
+
+
 ### Business Question
 *How has Airbnb's listing volume evolved over time, and what external forces shaped that growth?*
 
@@ -76,6 +82,9 @@ COVID-19 (2020–2021)      →  Severe demand and listing collapse
 
 ### Visual 1 — Pareto Bar Chart (Market Share by City)
 
+<img width="1072" height="800" alt="Screenshot 2026-06-23 095003" src="https://github.com/user-attachments/assets/d0d0591c-37df-4e28-a6b5-ef0dae53f60b" />
+
+
 Stacked bar chart showing Superhost vs Non-Superhost listings per city, with cumulative percentage line.
 
 | City | Cumulative Market Share |
@@ -97,6 +106,9 @@ Stacked bar chart showing Superhost vs Non-Superhost listings per city, with cum
 
 ### Visual 2 — Average Price by Property Type
 
+<img width="1075" height="801" alt="Screenshot 2026-06-23 095016" src="https://github.com/user-attachments/assets/32e81ab4-71c2-47aa-9ccf-edfac7e13c73" />
+
+
 | Property Type | Average Price |
 |---------------|--------------|
 | Hotel Room | **$800** |
@@ -109,6 +121,9 @@ Stacked bar chart showing Superhost vs Non-Superhost listings per city, with cum
 ---
 
 ## ⭐ Page 3 — Ratings & Review Behavior
+
+<img width="1070" height="807" alt="Screenshot 2026-06-23 095032" src="https://github.com/user-attachments/assets/b5323379-456e-4ec9-864c-aafd9b2f48fa" />
+
 
 ### Business Question
 *Which cities perform best on quality metrics, and how reliable is review data as a proxy for satisfaction?*
